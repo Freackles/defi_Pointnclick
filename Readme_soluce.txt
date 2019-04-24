@@ -19,7 +19,7 @@ La lettre:
         - "l'incident"
         - "Je te soupçonne"
         - "Chez toi ou chez moi"
-    De base il était prévu que le joueur reconstitue la lettre en saisissant au clavier les partie du texte devenus illisible mais le texte imput hors console avec la sdl seul semble un peu trop complexe
+    De base il était prévu que le joueur reconstitue la lettre en saisissant au clavier les partie du texte devenus illisible mais le text imput hors console avec la sdl seul semble un peu trop complexe
 
 Romain
 Intérogatoire:
